@@ -1,1 +1,1 @@
-# LED-scripts-python
+# light-scripts-python
