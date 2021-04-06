@@ -1,6 +1,6 @@
 # python-light-scripts
 
-This repository is a collection of python scripts written for LED and light projects. The purpose of this repo is to learn about python, repos and git, and github in general. A Raspberry Pi (4, 3A+, B+ or Zero W) is recommended but not requred. Scripts here are listed with their component and general purpose (such as `unicornhathd-desklight.py`). Please feel free to contribute scripts to this repository for a component or use.
+This repository is a collection of python scripts written for LED light projects. The purpose of this repo is to learn about python, repos and git, and github in general. A Raspberry Pi (4, 3A+, B+ or Zero W) is recommended but not requred. Scripts here are listed with their component and general purpose (such as `unicornhathd-desklight.py`). Please feel free to contribute scripts to this repository for a component or use.
 
 All scripts are single file that runs in the terminal and takes a user interface loop that allows for changes or turns off on exit.
 
@@ -13,7 +13,7 @@ All scripts are single file that runs in the terminal and takes a user interface
 
 ---
 
-## Project Tracking
+# Project Status
 
 ### Target State:
 A plug-and-play light system controlled by one or more buttons that adjust attributes of the light such as the temperature and/or brightness.
@@ -29,6 +29,8 @@ Knowledge of Git & Repo managmenet. (ie. Do I have the right abstraction of info
 - [ ] Expand use cases to include fun colours and applications such as video flash, key light, or colour splash wall options.
 - [ ] Add [Squid Combo Pack](https://gpiozero.readthedocs.io/en/stable/) by [Monk Makes](http://www.monkmakes.com/squid_combo.html) using GPIOZERO.
 - [ ] For unicornhathd add option to adjust brightness.
+
+---
 
 ## Resources and References
 
