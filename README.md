@@ -1,6 +1,6 @@
 # python-light-scripts
 
-This repository is a collection of python scripts written for LED light projects. The purpose of this repo is to learn about python, repos and git, and github in general. A Raspberry Pi (4, 3A+, B+ or Zero W) is recommended but not requred. Scripts here are listed with their component and general purpose (such as `unicornhathd-desklight.py`). Please feel free to contribute scripts to this repository for a component or use.
+This repository is a collection of python scripts written for LED light projects. The purpose of this project is to learn about python, repositories and git, and github in general. A Raspberry Pi (4, 3A+, B+ or Zero W) is recommended but not requred. Scripts here are listed with their component and general purpose (such as `unicornhathd-desklight.py`). Please feel free to contribute scripts to this repository for a component or use.
 
 All scripts are single file that runs in the terminal and takes a user interface loop that allows for changes or turns off on exit.
 
