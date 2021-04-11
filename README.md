@@ -5,8 +5,9 @@ This repository is a collection of python scripts written for LED light projects
 All scripts are single file that runs in the terminal and takes a user interface loop that allows for changes or turns off on exit.
 
 ## Supported Components:
-- [Unicorn Hat HD](https://github.com/pimoroni/unicorn-hat-hd) by [Pimoroni](https://shop.pimoroni.com/products/unicorn-hat-hd)
 - [Mote Kit](https://github.com/pimoroni/mote) by [Pimoroni](https://shop.pimoroni.com/products/mote)
+- [Raspberry Squid](https://www.monkmakes.com/downloads/instructions_squid_family.pdf) by [Monk Makes](http://www.monkmakes.com/squid_combo.html)
+- [Unicorn Hat HD](https://github.com/pimoroni/unicorn-hat-hd) by [Pimoroni](https://shop.pimoroni.com/products/unicorn-hat-hd)
 
 ## Use cases:
 - ***Desk light***: a light program that functions as a desk lamp with various warmth options (such as candle, 50W bulb, to carbon arc as defined by Kelvin temperature) for comfort and tasks.
@@ -26,9 +27,9 @@ Knowledge of Python and user interfaces.
 Knowledge of Git & Repo managmenet. (ie. Do I have the right abstraction of information? Should there be a branch for each component and/or use case? Is a git branch intended to be the feature or the suite?)
 
 ### Next Step:
-- [ ] Expand use cases to include fun colours and applications such as video flash, key light, or colour splash wall options.
-- [ ] Add [Squid Combo Pack](https://gpiozero.readthedocs.io/en/stable/) by [Monk Makes](http://www.monkmakes.com/squid_combo.html) using GPIOZERO.
-- [ ] For unicornhathd add option to adjust brightness.
+- [ ] Expand use cases to include colours and applications such as desk RGB, video flash, key light, or colour splash wall options.
+- [x] Add [Squid Combo Pack](https://gpiozero.readthedocs.io/en/stable/) by [Monk Makes](http://www.monkmakes.com/squid_combo.html) using GPIOZERO.
+- [ ] Add option to adjust brightness for squid and unicornhathd
 
 ---
 
